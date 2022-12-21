@@ -1,6 +1,6 @@
-package com.dckxx.common.vo;
+package com.dckxx.mybatis.common.vo;
 
-import com.dckxx.common.constant.CommonConstant;
+import com.dckxx.mybatis.common.constant.CommonConstant;
 import lombok.Data;
 
 import java.io.Serializable;

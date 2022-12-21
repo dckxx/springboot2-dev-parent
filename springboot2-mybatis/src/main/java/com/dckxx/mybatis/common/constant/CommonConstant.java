@@ -1,4 +1,4 @@
-package com.dckxx.common.constant;
+package com.dckxx.mybatis.common.constant;
 
 public interface CommonConstant {
 

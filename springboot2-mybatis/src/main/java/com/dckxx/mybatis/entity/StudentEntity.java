@@ -1,4 +1,4 @@
-package com.dckxx.entity;
+package com.dckxx.mybatis.entity;
 
 import lombok.Data;
 
@@ -35,5 +35,9 @@ public class StudentEntity {
      * 入学时间
      */
     private Date createTime;
+    /**
+     * 修改时间
+     */
+    private Date updateTime;
 
 }
